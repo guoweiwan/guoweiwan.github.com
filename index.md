@@ -12,10 +12,10 @@ My research interests include Computer Vision, Computer Graphics and Robotics, e
 ## Selected Publications
 
 <ul>
-{% for paper in site.data.papers.papers %}
- {% if paper.selected %}
+{% for spaper in site.data.papers.papers %}
+ {% if spaper.selected %}
   <li>
-  {% include paper.html paper=paper %}
+  {% include spaper.html spaper=spaper %}
   </li>
   {% endif %}
 {% endfor %}
