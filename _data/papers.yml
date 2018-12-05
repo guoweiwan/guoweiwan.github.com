@@ -8,3 +8,12 @@ papers:
     booktitle: "ICRA"
     doc-url: https://arxiv.org/abs/1711.05805
     venue: conference
+  - layout: paper
+    selected: no
+    paper-type: inproceedings
+    year: 2017
+    title: "Robust and Precise Vehicle Localization based on Multi-sensor Fusion in Diverse City Scenes"
+    authors: "Guowei Wan, Xiaolong Yang, Renlan Cai, Hao Li, Hao Wang, Shiyu Song"
+    booktitle: "arXiv:1711.05805"
+    doc-url: https://arxiv.org/abs/1711.05805
+    venue: conference
