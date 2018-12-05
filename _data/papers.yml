@@ -17,3 +17,12 @@ papers:
     booktitle: "arXiv:1711.05805"
     doc-url: https://arxiv.org/abs/1711.05805
     venue: conference
+    - layout: paper
+    selected: yes
+    paper-type: jounal
+    year: 2016
+    title: "Mobility fitting using 4D RANSAC"
+    authors: "Hao Li*, Guowei Wan*, Honghua Li, Andrei Sharf, Kai Xu, Baoquan Chen"
+    booktitle: "Computer Graphics Forum"
+    doc-url: https://onlinelibrary.wiley.com/doi/abs/10.1111/cgf.12965
+    venue: jounal
