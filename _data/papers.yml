@@ -23,7 +23,7 @@ papers:
     year: 2016
     title: "Mobility fitting using 4D RANSAC"
     authors: "Hao Li*, Guowei Wan*, Honghua Li, Andrei Sharf, Kai Xu, Baoquan Chen"
-    booktitle: "Computer Graphics Forum"
+    journal: Computer Graphics Forum
     doc-url: https://onlinelibrary.wiley.com/doi/abs/10.1111/cgf.12965
     venue: jounal
   - layout: paper
@@ -32,6 +32,6 @@ papers:
     year: 2012
     title: "Grammar-based 3D facade segmentation and reconstruction"
     authors: "Guowei Wan, Andrei Sharf"
-    booktitle: "Computers & Graphics"
+    journal: Computers & Graphics
     doc-url: https://www.sciencedirect.com/science/article/pii/S0097849312000192
     venue: jounal
