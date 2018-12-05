@@ -2,7 +2,7 @@
 # Must be the same as `author` in `_config.yml`.
 # You can change `author1` to your shortname.
 author1:
-  name:              Guowei Wan
+  name:              Guowei Wan | 万国伟
   email:             wanguowei@baidu.com
 
   # Used at the bottom of each page and at the top of the `about` layout
