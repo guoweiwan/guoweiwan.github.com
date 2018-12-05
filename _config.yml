@@ -38,11 +38,11 @@ logo:                  /assets/img/me.jpg
 
 # This should be the same author as first entry in `_data/authors.yml`.
 author:
-  name:                Guowei Wan(万国伟)
+  name:                Guowei Wan
   picture:             /assets/img/me.jpg
   social:
     email:               'wanguowei@baidu.com'
-    github:              alopez
+    #github:              alopez
 
 # This text will appear in a `<small>` tag in the footer of every page.
 copyright:             >
