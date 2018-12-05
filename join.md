@@ -2,7 +2,7 @@
 layout: page
 title:  Prospective collaborators
 cover:  false
-menu:   true
+menu:   false
 order:  4
 ---
 
