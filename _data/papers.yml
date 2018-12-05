@@ -70,3 +70,12 @@ papers:
     pages: 94:1-94:9
     doc-url: https://dl.acm.org/citation.cfm?id=1778831
     venue: jounal
+  - layout: paper
+    selected: no
+    paper-type: inproceedings
+    year: 2011
+    title: "An incremental extremely random forest classifier for online learning and tracking"
+    authors: "Aiping Wang, Guowei Wan, Zhiquan Cheng, Sikun Li"
+    booktitle: "Image Processing (ICIP)"
+    doc-url: https://ieeexplore.ieee.org/abstract/document/5414559/
+    venue: conference
