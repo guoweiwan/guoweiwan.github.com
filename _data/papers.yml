@@ -50,3 +50,12 @@ papers:
     pages: 14-28
     doc-url: https://www.sciencedirect.com/science/article/pii/S1524070311000658
     venue: jounal
+  - layout: paper
+    selected: no
+    paper-type: inproceedings
+    year: 2011
+    title: "Automatic facades segmentation using detected lines and vanishing points"
+    authors: "Guowei Wan, Sikun Li"
+    booktitle: "Image and Signal Processing (CISP)"
+    doc-url: https://ieeexplore.ieee.org/abstract/document/6100448/
+    venue: conference
