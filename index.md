@@ -1,25 +1,13 @@
 ---
 layout: page
-title: About me
+title: Guowei Wan
 cover: false
 ---
 
-I develop computational models of natural language learning, 
-understanding and generation in people and machines, and my research 
-focuses on basic scientific problems related to these models. I am 
-especially interested in modeling the rich diversity of linguistic
-phenomena across the world’s languages. 
+I am currently a senior research and development engineer working in Baidu Intelligent Driving Group (IDG). 
+I received my PhD in Computing Science from National University of Defense Technology under the co-supervision of Prof. Sikun Li and Prof. [Baoquan Chen](http://web.siat.ac.cn/~baoquan/). 
 
-I am a [Reader](https://en.wikipedia.org/wiki/Reader_(academic_rank))
-in the [Institute for Language, Cognition, and Computation](http://web.inf.ed.ac.uk/ilcc)
-in the [School of Informatics](http://web.inf.ed.ac.uk/)
-at the [University of Edinburgh](https://www.ed.ac.uk/). 
-[My research group](collaborators.html) is part of the larger 
-[Edinburgh natural language processing group](http://groups.inf.ed.ac.uk/edinburghnlp/)
-and we collaborate with many people in Edinburgh and more widely. I am 
-also the co-director of the 
-[Centre for Doctoral Training in Data Science](http://datascience.inf.ed.ac.uk/), 
-which offers a four-year MSc + PhD programme.
+My research is in Computer Vision, Simultaneous Localization and Mapping (SLAM), Structure from Motion (SFM), 3D Reconstruction, 3D Point Cloud Processing.
 
 ## News
 
