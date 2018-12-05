@@ -6,7 +6,7 @@ papers:
     title: "Robust and Precise Vehicle Localization based on Multi-sensor Fusion in Diverse City Scenes"
     authors: "Guowei Wan, Xiaolong Yang, Renlan Cai, Hao Li, Yao Zhou, Hao Wang, Shiyu Song"
     booktitle: "ICRA"
-    doc-url: https://arxiv.org/abs/1711.05805
+    doc-url: https://ieeexplore.ieee.org/document/8461224/
     venue: conference
   - layout: paper
     selected: no
