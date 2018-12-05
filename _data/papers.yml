@@ -59,3 +59,14 @@ papers:
     booktitle: "Image and Signal Processing (CISP)"
     doc-url: https://ieeexplore.ieee.org/abstract/document/6100448/
     venue: conference
+  - layout: paper
+    selected: yes
+    paper-type: article
+    year: 2010
+    title: "Non-local scan consolidation for 3D urban scenes"
+    authors: "Qian Zheng, Andrei Sharf, Guowei Wan, Yangyan Li, Niloy J Mitra, Daniel Cohen-Or, Baoquan Chen"
+    journal: ACM Transactions on Graphics (TOG)
+    volume: 29
+    pages: 94:1-94:9
+    doc-url: https://dl.acm.org/citation.cfm?id=1778831
+    venue: jounal
