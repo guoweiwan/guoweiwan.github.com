@@ -2,7 +2,7 @@
 layout: page
 title:  CV
 cover:  false
-menu:   false
+menu:   true
 order:  6
 ---
 
