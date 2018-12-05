@@ -23,7 +23,7 @@ My research interests include Computer Vision, Computer Graphics and Robotics, e
 
 
 <ul>
-  ![ICRA2018_car](guoweiwan.github.com/assets/img/me.jpg)
+  ![ICRA2018_car](assets/img/me.jpg)
   <li>
     Robust and Precise Vehicle Localization based on Multi-sensor Fusion in Diverse City Scenes,
     Guowei Wan, Xiaolong Yang, Renlan Cai, Hao Li, Yao Zhou, Hao Wang, Shiyu Song,
