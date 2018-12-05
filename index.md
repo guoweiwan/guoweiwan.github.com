@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Guowei Wan
+title: Guowei Wan(万国伟)
 cover: false
 ---
 
