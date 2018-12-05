@@ -39,3 +39,14 @@ papers:
     pages: 216-223
     doc-url: https://www.sciencedirect.com/science/article/pii/S0097849312000192
     venue: jounal
+  - layout: paper
+    selected: yes
+    paper-type: article
+    year: 2012
+    title: "Sorting unorganized photo sets for urban reconstruction"
+    authors: "Guowei Wan, Noah Snavely, Daniel Cohen-Or, Qian Zheng, Baoquan Chen, Sikun Li"
+    journal: Graphical Models
+    volume: 74
+    pages: 14-28
+    doc-url: https://www.sciencedirect.com/science/article/pii/S1524070311000658
+    venue: jounal
