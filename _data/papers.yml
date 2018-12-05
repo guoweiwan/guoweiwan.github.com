@@ -56,7 +56,7 @@ papers:
     year: 2011
     title: "Automatic facades segmentation using detected lines and vanishing points"
     authors: "Guowei Wan, Sikun Li"
-    booktitle: "Image and Signal Processing (CISP)"
+    booktitle: "2011 4th International Congress on Image and Signal Processing (CISP)"
     doc-url: https://ieeexplore.ieee.org/abstract/document/6100448/
     venue: conference
   - layout: paper
@@ -73,18 +73,28 @@ papers:
   - layout: paper
     selected: no
     paper-type: inproceedings
-    year: 2011
+    year: 2009
     title: "An incremental extremely random forest classifier for online learning and tracking"
     authors: "Aiping Wang, Guowei Wan, Zhiquan Cheng, Sikun Li"
-    booktitle: "Image Processing (ICIP)"
+    booktitle: "16th IEEE International Conference on Image Processing (ICIP)"
     doc-url: https://ieeexplore.ieee.org/abstract/document/5414559/
     venue: conference
   - layout: paper
     selected: no
     paper-type: inproceedings
-    year: 2011
+    year: 2009
     title: "A heterogeneous multicore SoC optimized for embedded visual media process"
     authors: "Ming Yan, Sikun Li, Jianliang Shen, Lei Xie, Lei Liu, Guowei Wan, Liangze Yin"
-    booktitle: "Communications and Mobile Computing (CMC)"
+    booktitle: "WRI International Conference on Communications and Mobile Computing (CMC)"
     doc-url: https://ieeexplore.ieee.org/abstract/document/4797212/
+    venue: conference
+  - layout: paper
+    selected: no
+    paper-type: inproceedings
+    year: 2008
+    title: "Solving stereo correspondence through minimizing energy function with higher-order cliques
+Authors"
+    authors: "Guowei Wan, Aiping Wang, Sikun Li, Liang Zeng"
+    booktitle: "International Conference on Information and Automation (ICIA)"
+    doc-url: https://ieeexplore.ieee.org/abstract/document/4608034/
     venue: conference
