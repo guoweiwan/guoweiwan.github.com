@@ -8,6 +8,7 @@ papers:
     booktitle: "ICRA"
     doc-url: https://ieeexplore.ieee.org/document/8461224/
     venue: conference
+    img: assets/img/me.jpg
   - layout: paper
     selected: no
     paper-type: inproceedings
