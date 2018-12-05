@@ -1,7 +1,16 @@
-{% if include.paper.doc-url %}<a href="{{ include.paper.doc-url }}">{% endif %}
-  {{ include.paper.title }}{% if include.paper.doc-url %}</a>{% endif %}<br/>
-{% if include.paper.authors %}{{ include.paper.authors }}.{% endif %}  
-{% case include.paper.paper-type %}
+<div class="pub">
+  {% if if include.paper.img %}
+    <img src="{{ include.paper.img }}"/>
+  {% endif %}
+  <div class="pub-text">
+    <h2>{{ include.paper.title }}
+      <a href="{{ include.paper.img }}">[PDF]</a>
+    </h2> 
+    <p>
+      {% if include.paper.authors %}{{ include.paper.authors }}.{% endif %}
+    </p>
+    <h3>
+      {% case include.paper.paper-type %}
   {% when "inproceedings" %}
     In <i>{{ include.paper.booktitle }}</i>.
   {% when "article" %}
@@ -12,8 +21,6 @@
   {% when "dissertation" %}
     Dissertation, {{ include.paper.institution }}.
 {% endcase %} 
-{{ include.paper.year }}. 
-{% if include.paper.note %} 
-  {{ include.paper.note }} 
-{% endif %}
-
+    </h3>
+  </div>        
+</div>
