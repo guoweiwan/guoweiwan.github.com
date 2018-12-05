@@ -19,7 +19,7 @@ papers:
     venue: conference
     - layout: paper
     selected: yes
-    paper-type: jounal
+    paper-type: article
     year: 2016
     title: "Mobility fitting using 4D RANSAC"
     authors: "Hao Li*, Guowei Wan*, Honghua Li, Andrei Sharf, Kai Xu, Baoquan Chen"
@@ -28,7 +28,7 @@ papers:
     venue: jounal
     - layout: paper
     selected: no
-    paper-type: jounal
+    paper-type: article
     year: 2012
     title: "Grammar-based 3D facade segmentation and reconstruction"
     authors: "Guowei Wan, Andrei Sharf"
