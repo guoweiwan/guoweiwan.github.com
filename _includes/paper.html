@@ -1,6 +1,3 @@
-{% if include.paper.img %}
-  <img style="width: 200px; height: 170px;" src="{{ include.paper.img }}" />
-{% endif %}
 {% if include.paper.doc-url %}<a href="{{ include.paper.doc-url }}">{% endif %}
   {{ include.paper.title }}{% if include.paper.doc-url %}</a>{% endif %}<br/>
 {% if include.paper.authors %}{{ include.paper.authors }}.{% endif %}<br/>
