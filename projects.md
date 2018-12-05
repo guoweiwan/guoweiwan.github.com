@@ -2,7 +2,7 @@
 layout: page
 title:  Projects
 cover:  false
-menu:   true
+menu:   false
 order:  1
 ---
 
