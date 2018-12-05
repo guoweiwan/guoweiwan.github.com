@@ -79,3 +79,12 @@ papers:
     booktitle: "Image Processing (ICIP)"
     doc-url: https://ieeexplore.ieee.org/abstract/document/5414559/
     venue: conference
+  - layout: paper
+    selected: no
+    paper-type: inproceedings
+    year: 2011
+    title: "A heterogeneous multicore SoC optimized for embedded visual media process"
+    authors: "Ming Yan, Sikun Li, Jianliang Shen, Lei Xie, Lei Liu, Guowei Wan, Liangze Yin"
+    booktitle: "Communications and Mobile Computing (CMC)"
+    doc-url: https://ieeexplore.ieee.org/abstract/document/4797212/
+    venue: conference
