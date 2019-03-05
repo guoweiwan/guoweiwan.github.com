@@ -2,6 +2,15 @@ papers:
   - layout: paper
     selected: yes
     paper-type: inproceedings
+    year: 2019
+    title: "L3-Net: Towards Learning based LiDAR Localization for Autonomous Driving"
+    authors: "Weixin Lu*, Yao Zhou*, Guowei Wan, Shenhua Hou, Shiyu Song"
+    booktitle: "CVPR"
+    doc-url: https://guoweiwan.github.io
+    venue: conference
+  - layout: paper
+    selected: yes
+    paper-type: inproceedings
     year: 2018
     title: "Robust and Precise Vehicle Localization based on Multi-sensor Fusion in Diverse City Scenes"
     authors: "Guowei Wan, Xiaolong Yang, Renlan Cai, Hao Li, Yao Zhou, Hao Wang, Shiyu Song"
