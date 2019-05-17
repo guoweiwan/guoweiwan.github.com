@@ -1,6 +1,6 @@
 papers:
   - layout: paper
-    selected: no
+    selected: yes
     paper-type: inproceedings
     year: 2019
     title: "DeepICP: An End-to-End Deep Neural Network for 3D Point Cloud Registration"
