@@ -3,6 +3,15 @@ papers:
     selected: yes
     paper-type: inproceedings
     year: 2019
+    title: "DeepVCP: An End-to-End Deep Neural Network for Point Cloud Registration"
+    authors: "Weixin Lu, Guowei Wan, Yao Zhou, Xiangyu Fu, Pengfei Yuan, Shiyu Song"
+    booktitle: "ICCV"
+    doc-url: 
+    venue: conference
+  - layout: paper
+    selected: no
+    paper-type: inproceedings
+    year: 2019
     title: "DeepICP: An End-to-End Deep Neural Network for 3D Point Cloud Registration"
     authors: "Weixin Lu, Guowei Wan, Yao Zhou, Xiangyu Fu, Pengfei Yuan, Shiyu Song"
     booktitle: "arXiv:1905.04153"
