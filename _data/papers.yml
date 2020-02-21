@@ -1,5 +1,5 @@
 papers:
-    - layout: paper
+  - layout: paper
     selected: yes
     paper-type: inproceedings
     year: 2020
