@@ -6,6 +6,7 @@ papers:
     title: "LiDAR Inertial Odometry Aided Robust LiDAR Localization System in Changing City Scenes"
     authors: "Wendong Ding, Shenhua Hou, Hang Gao, Guowei Wan, Shiyu Song"
     booktitle: "ICRA"
+    doc-url: https://songshiyu01.github.io/publication/icra2020_lio/
     venue: conference
   - layout: paper
     selected: yes
