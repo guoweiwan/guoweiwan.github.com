@@ -2,7 +2,7 @@ papers:
   - layout: paper
     selected: yes
     paper-type: inproceedings
-    year: 2019
+    year: 2020
     title: "DA4AD: End-to-end Deep Attention Aware Features Aided Visual Localization for Autonomous Driving"
     authors: "Yao Zhou, Guowei Wan, Shenhua Hou, Li Yu, Gang Wang, Xiaofei Rui, Shiyu Song"
     booktitle: "arXiv:1905.04153"
